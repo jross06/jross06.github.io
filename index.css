@@ -33,7 +33,7 @@ h1 {
   float: left;
   color: #ccffcc;
   text-align: center;
-  vertical-align: middle;
+  vertical-align: text-bottom;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 4vw;
