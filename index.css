@@ -72,3 +72,8 @@ a:active {
   margin-right: auto;
   text-decoration: none;
 }
+
+.block:hover {
+  border-style: solid;
+  border-color: white;
+}
