@@ -50,6 +50,13 @@ a:active {
   margin-right: auto;
 }
 
+.center {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .block {
   display: block;
   width: 50%;
