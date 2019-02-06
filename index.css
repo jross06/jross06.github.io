@@ -3,7 +3,7 @@
 body {
 	font-family: "Helvetica";
 	background-color: PowderBlue;
-	color: OrangeRed;
+	color: #e68a00;
 	font-size: 32px;
 	text-align: center;
 }
@@ -15,12 +15,12 @@ h1 {
 }
 
 a:link {
-  color: OrangeRed;
+  color: #e68a00;
   text-decoration: none;
 }
 
 a:visited {
-  color: OrangeRed;
+  color: #e68a00;
   text-decoration: none;
 }
 
