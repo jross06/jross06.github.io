@@ -1,7 +1,8 @@
 
 
 body, html {
-	font-family: "Helvetica";
+	font-family: "Georgia, serif";
+  font-weight: bold;
 	color: #ccffcc;
 	font-size: 32px;
 	text-align: center;
