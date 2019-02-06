@@ -1,5 +1,5 @@
 body, html {
-	background-color: #ccffcc;
+	background-color: #d9d9d9;
 	color:#333333;
 	font-family: "Georgia, serif";
 }
@@ -10,4 +10,29 @@ h1 {
   	color:#333333;
 	font-size: 64px;
   	text-align: left;
+}
+
+.topnav {
+  background-color: #333333;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #ccffcc;
+  text-align: center;
+  vertical-align: text-bottom;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 4vw;
+}
+
+.topnav a:hover {
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #ccffcc;
+  color: #333333;
+  font-size: 5vw;
 }
