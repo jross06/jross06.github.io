@@ -25,12 +25,12 @@ a:visited {
 }
 
 a:hover {
-  color: white;
+  color: #ffd11a;
   text-decoration: none;
 }
 
 a:active {
-  color: white;
+  color: #ffd11a;
   text-decoration: none;
 }
 
