@@ -36,7 +36,8 @@ a:active {
 
 #portrait {
   display: block;
-  width: 50%;
+  width: 400px;
+  height: 300px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -44,16 +45,10 @@ a:active {
 #portrait:hover {
   background-image: url("coverimage3.jpeg");
   display: block;
-  width: 50%;
+  width: 400px;
+  height: 300px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
 .block {
