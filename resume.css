@@ -1,0 +1,13 @@
+body, html {
+	background-color: #ccffcc;
+	color:#333333;
+	font-family: "Georgia, serif";
+}
+
+h1 {
+    font-family: "Georgia, serif";
+  	font-weight: bold;
+  	color:#333333;
+	font-size: 64px;
+  	text-align: left;
+}
