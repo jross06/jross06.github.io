@@ -34,7 +34,7 @@ a:active {
   text-decoration: none;
 }
 
-#portrait {
+.portrait {
   background-image: url(coverimage.jpeg) no-repeat;
   background-size: 100%;
   display: block;
@@ -43,7 +43,7 @@ a:active {
   margin-right: auto;
 }
 
-#portrait:hover {
+.portrait:hover {
   background-image: url(coverimage3.jpeg) no-repeat;
   background-size: 100%;
   display: block;
