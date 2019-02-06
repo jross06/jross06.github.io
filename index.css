@@ -66,6 +66,7 @@ a:active {
 .topnav a.active {
   background-color: black;
   color: white;
+  font-size: 40px;
 }
 
 .center {
