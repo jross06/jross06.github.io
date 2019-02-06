@@ -35,7 +35,7 @@ a:active {
 }
 
 #portrait {
-  background-image: url("coverimage.jpeg") no-repeat;
+  background-image: url(coverimage.jpeg) no-repeat;
   background-size: 100%;
   display: block;
   width: 100%;
@@ -44,7 +44,7 @@ a:active {
 }
 
 #portrait:hover {
-  background-image: url("coverimage3.jpeg") no-repeat;
+  background-image: url(coverimage3.jpeg) no-repeat;
   background-size: 100%;
   display: block;
   width: 100%;
