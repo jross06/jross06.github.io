@@ -34,24 +34,6 @@ a:active {
   text-decoration: none;
 }
 
-.portrait {
-  background-image: url(coverimage.jpeg) no-repeat;
-  background-size: 100%;
-  display: block;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.portrait:hover {
-  background-image: url(coverimage3.jpeg) no-repeat;
-  background-size: 100%;
-  display: block;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .center {
   display: block;
   width: 50%;
@@ -62,8 +44,8 @@ a:active {
 .block {
   display: block;
   width: 25%;
-  border: none;
-  background-color: #ccffcc;
+  border: 2px solid #ccffcc;
+  background-color: none;
   padding: 14px 28px;
   font-size: 32px;
   cursor: pointer;
