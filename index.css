@@ -36,11 +36,13 @@ a:active {
 
 #portrait {
   display: block;
+  width: 50%;
 }
 
 #portrait:hover {
   background-image: url("coverimage3.jpeg");
   display: block;
+  width: 50%;
 }
 
 .center {
