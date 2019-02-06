@@ -2,8 +2,8 @@
 
 body {
 	font-family: "Helvetica";
-	background-color: PowderBlue;
-	color: #e68a00;
+	background-color: #00394d;
+	color: #ccffcc;
 	font-size: 32px;
 	text-align: center;
 }
@@ -15,22 +15,22 @@ h1 {
 }
 
 a:link {
-  color: #e68a00;
+  color: #00394d;
   text-decoration: none;
 }
 
 a:visited {
-  color: #e68a00;
+  color: #00394d;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ffd11a;
+  color: #00394d;
   text-decoration: none;
 }
 
 a:active {
-  color: #ffd11a;
+  color: #00394d;
   text-decoration: none;
 }
 
@@ -63,7 +63,7 @@ a:active {
   display: block;
   width: 50%;
   border: none;
-  background-color: #006699;
+  background-color: white;
   padding: 14px 28px;
   font-size: 32px;
   cursor: pointer;
