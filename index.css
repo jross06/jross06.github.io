@@ -11,3 +11,23 @@ h1 {
 	font-family: "Impact";
 	font-size: 64px;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.block {
+  display: block;
+  width: 50%;
+  border: none;
+  background-color: #006699;
+  padding: 14px 28px;
+  font-size: 32px;
+  cursor: pointer;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
