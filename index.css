@@ -34,9 +34,15 @@ a:active {
   text-decoration: none;
 }
 
+#portrait {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
-
-.center {
+#portrait:hover {
+  background-image: url('coverimage3.jpeg')
   display: block;
   margin-left: auto;
   margin-right: auto;
