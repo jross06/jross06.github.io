@@ -14,8 +14,14 @@ h1 {
   text-align: center;
 }
 
-body:link {
+a:link {
+    color: OrangeRed;
     text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
 }
 
 .center {
