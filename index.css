@@ -14,8 +14,8 @@ h1 {
   text-align: center;
 }
 
-a:link {
-
+body:link {
+    text-decoration: none;
 }
 
 .center {
