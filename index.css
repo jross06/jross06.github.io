@@ -16,26 +16,6 @@ h1 {
   text-align: center;
 }
 
-a:link {
-  color: #ccffcc;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #ccffcc;
-  text-decoration: none;
-}
-
-a:hover {
-  color: white;
-  text-decoration: none;
-}
-
-a:active {
-  color: white;
-  text-decoration: none;
-}
-
 .cover {
   background-image: url("newcover.jpeg");
   height: 100%;
@@ -60,7 +40,7 @@ a:active {
 
 .topnav a:hover {
   background-color: black;
-  color: #ccffcc;
+  color: white;
 }
 
 .topnav a.active {
