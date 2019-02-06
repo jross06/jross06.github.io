@@ -6,6 +6,7 @@ body {
 	color: #ccffcc;
 	font-size: 32px;
 	text-align: center;
+  height: 100%;
 }
 
 h1 {
@@ -32,6 +33,14 @@ a:hover {
 a:active {
   color: white;
   text-decoration: none;
+}
+
+.cover {
+  background-image: url("newcover.jpeg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .center {
