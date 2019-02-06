@@ -2,7 +2,6 @@
 
 body, html {
 	font-family: "Helvetica";
-	background-color: #00394d;
 	color: #ccffcc;
 	font-size: 32px;
 	text-align: center;
@@ -41,6 +40,30 @@ a:active {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.topnav {
+  background-color: #333333;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #ccffcc;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 32px;
+}
+
+.topnav a:hover {
+  background-color: black;
+  color: #ccffcc;
+}
+
+.topnav a.active {
+  background-color: black;
+  color: white;
 }
 
 .center {
