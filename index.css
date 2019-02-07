@@ -59,19 +59,4 @@ h1 {
 
 .block {
   display: block;
-  width: 25%;
-  border: 2px solid #ccffcc;
-  background-color: none;
-  padding: 14px 28px;
-  font-size: 32px;
-  cursor: pointer;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  text-decoration: none;
-}
-
-.block:hover {
-  border-style: solid;
-  border-color: white;
 }
