@@ -8,8 +8,12 @@ Pages:
 
 Index: Contains name, image, and 2 links: one to resume and one to bio. This
        is all properly implemented. Links are located in navigation bar at top.
+       Only know issue is that css file has an unused blcok class that I couldn't
+       figure out how to delete from github.
+
 Bio: Contains a short biography centered on the page within a box. Also has 
      navigation bar. It is properly implemented.
+
 Resume: Contains resume and navigation bar. It is properly implemented.
 
 Acknowledgments: consulted W3Schools for color codes and other syntax questions
