@@ -2,7 +2,15 @@ body, html {
 	background-color: #d9d9d9;
 	color:#333333;
 	font-family: "Georgia, serif";
-  font-size: 24;
+  font-size: 40;
+}
+
+.textbox {
+  border-style: solid;
+  border-width: medium;
+  border-color: #ccffcc;
+  width: 75%;
+  margin-left: auto;
 }
 
 .topnav {
